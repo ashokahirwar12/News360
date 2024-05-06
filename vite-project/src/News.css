@@ -1,0 +1,32 @@
+.news-card{
+    padding: 20px;
+    border: 2px solid black;
+    background-color: white;
+}
+
+img{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+h2{
+    margin-bottom: 20px;
+    background-color: white;
+}
+
+p{
+    color: #333;
+    background-color: white;
+}
+
+.btn-read-more{
+    margin-top: 10px;
+    width: 100%;
+    margin-inline: auto;
+    padding-block: 10px 10px;
+    color: white;
+    background-color: #0080ff;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: 700;
+}
